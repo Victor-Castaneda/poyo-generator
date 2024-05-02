@@ -3,7 +3,14 @@ const imgArray = [
     "images/yumkirb.gif",
     "images/kirbdance.gif",
     "images/nomkirb.gif",
-    "images/suck.gif"
+    "images/suck.gif",
+    "images/cutepoyo.webp",
+    "images/rockyo.jpg",
+    "images/huhyo.jpg",
+    "images/sleebyo.jpg",
+    "images/meyo.jpg",
+    "images/peeasyo.jpg"
+
 ];
 
 function generateImg() {
